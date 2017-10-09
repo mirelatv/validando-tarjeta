@@ -1,0 +1,19 @@
+https://subefotos.com/ver/?150f7077709b1c4663ea207abe728457o.png#codigos
+
+
+Algoritmo validacion
+	Escribir dame tu numero de trajeta
+	Leer datos tarjeta
+	Repetir
+	Hasta Que si la infomacion no es vacia
+	creo array
+	new array <- array al reves
+	recorro el nuevo array
+	var duplicado <- new array multiplicadocifras pares  por 2
+	new arra <- suma de division y modulo
+	suma de numeros encontrados
+	nueva var suma
+	recorrido de new array
+	var suma array <- suma de elementos
+	Escribir alerta tarjeta valida o invalida
+FinAlgoritmo
